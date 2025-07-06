@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Y159753
-- 👀 I’m interested in light installations/video/electronics 
-- 🌱 I’m currently learning glsl, arduino, madmapper, after effect.. 
-- 💞️ I’m looking to collaborate on shaders, madmapper 
+- 👀 I’m interested in embedded systems, mechanics, C++, python, 
+- 🌱 I’m currently learning to improve improve code developement with AI  
+- 💞️ I’m looking to collaborate in robotics. 
 - 📫 How to reach me : contact me on my email yanwolff@live.fr
 
 <!---
